@@ -1,0 +1,6 @@
+C:\Users\sarin\Desktop\steep_hill_climbing\steep_hill_climbing\bin\Debug\steep_hill_climbing.exe.config
+C:\Users\sarin\Desktop\steep_hill_climbing\steep_hill_climbing\bin\Debug\steep_hill_climbing.exe
+C:\Users\sarin\Desktop\steep_hill_climbing\steep_hill_climbing\bin\Debug\steep_hill_climbing.pdb
+C:\Users\sarin\Desktop\steep_hill_climbing\steep_hill_climbing\obj\Debug\steep_hill_climbing.csprojResolveAssemblyReference.cache
+C:\Users\sarin\Desktop\steep_hill_climbing\steep_hill_climbing\obj\Debug\steep_hill_climbing.exe
+C:\Users\sarin\Desktop\steep_hill_climbing\steep_hill_climbing\obj\Debug\steep_hill_climbing.pdb
